@@ -2,5 +2,13 @@
 
 ## Comparar resultados de metodologias multicriterio de apoio a decisão 
 
-#### Centro Universitário Lasalle do Rio de Janeiro (Unilasalle - Rj) 
+#### Centro Universitário Lasalle do Rio de Janeiro (Unilasalle - Rj)  
 
+
+##### Metodologias: 
+
+* Composição probabilística de critérios (CPP) 
+* AHP 
+* TOPSIS 
+* FUZZY ? 
+* DEA ?
