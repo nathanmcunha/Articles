@@ -1,14 +1,15 @@
 # Trabalho de conclusão de curso  
 
-## Comparar resultados de metodologias multicriterio de apoio a decisão 
+## Comparar resultados de metodologias multicritério de apoio à decisão 
 
 #### Centro Universitário Lasalle do Rio de Janeiro (Unilasalle - Rj)  
 
 
 ##### Metodologias: 
 
-* AHP 
 * TOPSIS 
-* FUZZY 
+* FUZZY-TOPSIS 
+* FUZZY-COMBS 
+* ~AHP~ 
 * ~DEA~
 * ~Composição probabilística de critérios (CPP)~ 
