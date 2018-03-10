@@ -7,8 +7,8 @@
 
 ##### Metodologias: 
 
-* Composição probabilística de critérios (CPP) 
 * AHP 
 * TOPSIS 
-* FUZZY ? 
-* DEA ?
+* FUZZY 
+* ~DEA~
+* ~Composição probabilística de critérios (CPP)~ 
