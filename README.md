@@ -11,7 +11,7 @@
   * TOPSIS 
   * TOPSIS - AHP
 
-* Segunda Etapada
+* Segunda Etapa
   * FUZZY-TOPSIS 
   * FUZZY-COMBS 
 
