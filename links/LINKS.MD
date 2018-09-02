@@ -19,4 +19,6 @@ http://eric.univ-lyon2.fr/~ricco/tanagra/fichiers/en_Tanagra_Calcul_P_Value.pdf
 https://docs.scipy.org/doc/scipy/reference/tutorial/integrate.html
 
 
-
+####Links sobre Scala 
+* Bibliotecas Scala, R e Python
+http://www.cienciaedados.com/bibliotecas-de-data-science-em-python-r-e-scala/ 
